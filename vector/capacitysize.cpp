@@ -16,7 +16,7 @@ int main(){
     v.push_back(56);
     v[1]=900;//edit
     cout<<"sizeof v="<<v.size()<<"\n";
-    cout<<"size of v="<<v.capacity();
+    cout<<"size of v="<<v.capacity()<<"\n";
 
     cout<<v.size()<<"\n";
     for(auto p:v)
