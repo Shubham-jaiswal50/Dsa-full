@@ -29,7 +29,7 @@ if(i<j)
     return j;
     
 }
-q
+
 
 void qksrt(int arr[],int low,int high){
     int pv;
