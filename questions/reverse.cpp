@@ -4,7 +4,7 @@ void revq(queue<int>q){
     stack<int>st;
     while(!q.empty()){
         st.push(q.bac())
-    }
+    } 
 
 }
 int main(){
