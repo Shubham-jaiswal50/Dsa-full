@@ -20,8 +20,8 @@ bool isPangram(string& sentence)
     string sentence="Quickbrownfoxjumpsoverthelazydog";
     if(isPangram(sentence)){
         cout<<"\""<<sentence<<","<<"is a panagram"<<endl;
-    }`
+    }
     else{
-        cout<<"\""<<sentence<<","<<"is  not a panagram"<<endl; b
+        cout<<"\""<<sentence<<","<<"is  not a panagram"<<endl; 
     }
    }
