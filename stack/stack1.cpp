@@ -1,6 +1,7 @@
 #include<iostream>
 #include<stack>//stack follow the LIFO APPROACH (last in first out)
 //there are four function = push(),pop(),top(),empty()
+
 using namespace std;
 int main(){
     stack<int>st;
