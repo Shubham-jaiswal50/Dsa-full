@@ -18,8 +18,8 @@ int main()
 
 
 
-    // map<int,string>mp;
-    // up.insert({109,"anup"});
+    // map<int,string>up;
+    // up.insert({109,"anup"}); 
     // up.insert({32,"rupesh"});
     // up.insert({10,"ravi"});
     // for(auto p:up){
